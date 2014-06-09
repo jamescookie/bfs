@@ -3,13 +3,17 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+  Developer: James Cook
+  Site: http://blackfishsoftware.co.uk/
+  Location: London, UK
 
 # THANKS
 
-    <name>
+  Rob Fletcher: Inspiration
+  Mono Social Icons: http://icondock.com/free/mono-social-icons
+  Button look & feel: http://twitter.github.com/bootstrap/base-css.html#buttons
 
 # TECHNOLOGY COLOPHON
 
-    HTML5, CSS3
-    Normalize.css, jQuery, Modernizr
+  Standards: HTML5, CSS3
+  Components: Modernizr, jQuery, HTML5 Boilerplate, LESS
